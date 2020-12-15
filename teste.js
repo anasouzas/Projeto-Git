@@ -1,1 +1,3 @@
-Teste de projeto
+$("p").on("click", function () {
+	Alert ("O parágrafo foi clicado");
+});
